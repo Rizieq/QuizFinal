@@ -7,4 +7,11 @@ class Category {
     lateinit var merk_produk: String
     lateinit var harga: String
     lateinit var jenis_produk: String
+
+
+
+
+
+
+
 }

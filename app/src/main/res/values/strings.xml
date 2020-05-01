@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">QuizFinalProject</string>
+    <string name="nama_produk">Nama Produk :</string>
+    <string name="minyak">Minyak</string>
+    <string name="merk_produk">Merk Produk :</string>
+    <string name="bimoli">Bimoli</string>
+    <string name="harga_produk">Harga Produk :</string>
+    <string name="rp_24000">Rp 24000</string>
+    <string name="jenis_produk">Jenis Produk :</string>
+    <string name="kesehatan">Kesehatan</string>
+    <string name="nama_produks">Nama Produk</string>
+    <string name="merk_produks">Merk Produk</string>
+    <string name="harga_produks">Harga Produk</string>
+    <string name="add_category">Add Category</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="update_or_delete_item_here">Update Or Delete Item Here</string>
 </resources>
